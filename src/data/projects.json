@@ -1,7 +1,7 @@
 [
   {
     "title": "Pokémon Memory",
-    "imageSrc": "/assets/projectsimg/pokemon.png",
+    "imageSrc": "/public/assets/projectsimg/pokemon.png",
     "description": "A memory game with pokémon from the first generation.",
     "skills": [
       "React",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Calendar Creator",
-    "imageSrc": "/assets/projectsimg/good.png",
+    "imageSrc": "/public/assets/projectsimg/good.png",
     "description": " A tool to make your own calendar.",
     "skills": ["HTML", "API", "CSS", "JavaScript"],
     "demo": "https://home-made-calendar.netlify.app/",
@@ -25,7 +25,7 @@
   },
   {
     "title": "Countries",
-    "imageSrc": "/assets/projectsimg/contrys.png",
+    "imageSrc": "/public/assets/projectsimg/contrys.png",
     "description": "This site offers information on countries across the globe.",
     "skills": ["React", "CSS", "HTML", "Material-UI", "API", "Node"],
     "demo": "https://countries-dave.netlify.app/",
@@ -33,7 +33,7 @@
   },
   {
     "title": "Weather",
-    "imageSrc": "/assets/projectsimg/Weather.png",
+    "imageSrc": "/public/assets/projectsimg/Weather.png",
     "description": "A simple app for checking the weather.",
     "skills": ["CSS", "HTML", "JavaScript", "API"],
     "demo": "https://weather-app-dave.netlify.app/",
@@ -41,7 +41,7 @@
   },
   {
     "title": "Motivation",
-    "imageSrc": "/assets/projectsimg/Mot.png",
+    "imageSrc": "/public/assets/projectsimg/Mot.png",
     "description": "Generate inspiring texts quickly with this API-driven tool.",
     "skills": ["CSS", "HTML", "API", "JavaScript"],
     "demo": "https://motivationsgenerator.netlify.app/",
@@ -49,7 +49,7 @@
   },
   {
     "title": "Quiz",
-    "imageSrc": "/assets/projectsimg/Quiz.png",
+    "imageSrc": "/public/assets/projectsimg/Quiz.png",
     "description": "A simple quiz game with questions about the Swedish Midsummer.",
     "skills": ["CSS", "HTML", "JavaScript"],
     "demo": "https://dave-quiz.netlify.app/",
@@ -57,7 +57,7 @@
   },
   {
     "title": "Password Generator",
-    "imageSrc": "/assets/projectsimg/Password.png",
+    "imageSrc": "/public/assets/projectsimg/Password.png",
     "description": "Use this tool to easily come up with a strong password.",
     "skills": ["CSS", "HTML", "JavaScript"],
     "demo": "https://password-generator-dave.netlify.app/",
@@ -65,7 +65,7 @@
   },
   {
     "title": "Joke",
-    "imageSrc": "/assets/projectsimg/Joke.png",
+    "imageSrc": "/public/assets/projectsimg/Joke.png",
     "description": " A joke generator that fetches jokes from an API.",
     "skills": ["CSS", "HTML", "JavaScript", "API"],
     "demo": "https://joke-generator-dave.netlify.app/",
@@ -73,7 +73,7 @@
   },
   {
     "title": "Word game",
-    "imageSrc": "/assets/projectsimg/Word.png",
+    "imageSrc": "/public/assets/projectsimg/Word.png",
     "description": "It a word game with league of legends item and carakters one of the first apps i made.",
     "skills": ["CSS", "HTML", "JavaScript"],
     "demo": "https://word-game-lol.netlify.app/",
@@ -81,7 +81,7 @@
   },
   {
     "title": "Image search app",
-    "imageSrc": "/assets/projectsimg/Imgapp.png",
+    "imageSrc": "/public/assets/projectsimg/Imgapp.png",
     "description": "simple app to search for images also one of my first apps",
     "skills": ["CSS", "HTML", "JavaScript", "API"],
     "demo": "https://daves-img-search.netlify.app/",
