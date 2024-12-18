@@ -25,8 +25,6 @@ const navItems = [
   { name: "Contact", link: "#contact" },
 ];
 
-const navButtons = [{ name: "CV", link: "/CV.pdf" }];
-
 function DrawerAppBar(props) {
   const { window } = props;
   const [mobileOpen, setMobileOpen] = React.useState(false);
@@ -53,18 +51,6 @@ function DrawerAppBar(props) {
             <ListItemButton
               component="a"
               href={item.link}
-              sx={{ textAlign: "center" }}
-            >
-              <ListItemText primary={item.name} />
-            </ListItemButton>
-          </ListItem>
-        ))}
-        {navButtons.map((item) => (
-          <ListItem key={item.name} disablePadding>
-            <ListItemButton
-              component="a"
-              href={item.link}
-              target={item.link.endsWith(".pdf") ? "_blank" : "_self"}
               sx={{ textAlign: "center" }}
             >
               <ListItemText primary={item.name} />
@@ -122,23 +108,7 @@ function DrawerAppBar(props) {
               ))}
             </Box>
 
-            <Box sx={{ display: "flex", justifyContent: "flex-end" }}>
-              {navButtons.map((item) => (
-                <Button
-                  key={item.name}
-                  component="a"
-                  href={item.link}
-                  target={item.link.endsWith(".pdf") ? "_blank" : "_self"}
-                  sx={{
-                    color: "#000",
-                    background: "#cda5bc",
-                    borderRadius: 1000,
-                  }}
-                >
-                  {item.name}
-                </Button>
-              ))}
-            </Box>
+            <Box sx={{ display: "flex", justifyContent: "flex-end" }}></Box>
           </Box>
         </Toolbar>
       </AppBar>
