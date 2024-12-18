@@ -25,7 +25,7 @@
   },
   {
     "title": "Countries",
-    "imageSrc": "/assets/projectsimg/contrys.png",
+    "imageSrc": "/assets/projectsimg/Contrys.png",
     "description": "This site offers information on countries across the globe.",
     "skills": ["React", "CSS", "HTML", "Material-UI", "API", "Node"],
     "demo": "https://countries-dave.netlify.app/",
