@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Pokémon Memory",
+    "imageSrc": "assets/projects/pokemon.png",
+    "description": "A memory game with pokémon from the first generation.",
+    "skills": [
+      "React",
+      "HTML",
+      "Node",
+      "CSS",
+      "JavaScript",
+      "Material-UI",
+      "MongoDB"
+    ],
+    "demo": "https://memory-pokemon-dave.netlify.app/",
+    "source": "https://github.com/DivineDragonDave/my-memory-game---pokemon"
+  },
+  {
+    "title": "Calendar Creator",
+    "imageSrc": "assets/projects/good.png",
+    "description": " A tool to make your own calendar.",
+    "skills": ["HTML", "API", "CSS", "JavaScript"],
+    "demo": "https://home-made-calendar.netlify.app/",
+    "source": "https://github.com/DivineDragonDave/kalender"
+  },
+  {
+    "title": "Countries",
+    "imageSrc": "assets/projects/contrys.png",
+    "description": "This site offers information on countries across the globe.",
+    "skills": ["React", "CSS", "HTML", "Material-UI", "API", "Node"],
+    "demo": "https://countries-dave.netlify.app/",
+    "source": "https://github.com/DivineDragonDave/contrys"
+  },
+  {
+    "title": "Weather",
+    "imageSrc": "assets/projects/Weather.png",
+    "description": "A simple app for checking the weather.",
+    "skills": ["CSS", "HTML", "JavaScript", "API"],
+    "demo": "https://weather-app-dave.netlify.app/",
+    "source": "https://github.com/DivineDragonDave/v-der-app"
+  },
+  {
+    "title": "Motivation",
+    "imageSrc": "assets/projects/Mot.png",
+    "description": "Generate inspiring texts quickly with this API-driven tool.",
+    "skills": ["CSS", "HTML", "API", "JavaScript"],
+    "demo": "https://motivationsgenerator.netlify.app/",
+    "source": "https://github.com/DivineDragonDave/motivationsgenerator"
+  },
+  {
+    "title": "Quiz",
+    "imageSrc": "assets/projects/Quiz.png",
+    "description": "A simple quiz game with questions about the Swedish Midsummer.",
+    "skills": ["CSS", "HTML", "JavaScript"],
+    "demo": "https://dave-quiz.netlify.app/",
+    "source": "https://github.com/DivineDragonDave/dave-quiz"
+  },
+  {
+    "title": "Password Generator",
+    "imageSrc": "assets/projects/Password.png",
+    "description": "Use this tool to easily come up with a strong password.",
+    "skills": ["CSS", "HTML", "JavaScript"],
+    "demo": "https://password-generator-dave.netlify.app/",
+    "source": "https://github.com/DivineDragonDave/projekt-losenordsgenerator-4"
+  },
+  {
+    "title": "Joke",
+    "imageSrc": "assets/projects/Joke.png",
+    "description": " A joke generator that fetches jokes from an API.",
+    "skills": ["CSS", "HTML", "JavaScript", "API"],
+    "demo": "https://joke-generator-dave.netlify.app/",
+    "source": "https://github.com/DivineDragonDave/jokegenerater"
+  },
+  {
+    "title": "Word game",
+    "imageSrc": "assets/projects/Word.png",
+    "description": "It a word game with league of legends item and carakters one of the first apps i made.",
+    "skills": ["CSS", "HTML", "JavaScript"],
+    "demo": "https://word-game-lol.netlify.app/",
+    "source": "https://word-game-lol.netlify.app/"
+  },
+  {
+    "title": "Image search app",
+    "imageSrc": "assets/projects/Imgapp.png",
+    "description": "simple app to search for images also one of my first apps",
+    "skills": ["CSS", "HTML", "JavaScript", "API"],
+    "demo": "https://daves-img-search.netlify.app/",
+    "source": "https://github.com/DivineDragonDave/img-s-kning"
+  }
+]
