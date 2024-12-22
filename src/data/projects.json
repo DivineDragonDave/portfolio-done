@@ -74,7 +74,7 @@
   {
     "title": "Word game",
     "imageSrc": "/assets/projectsimg/Word.png",
-    "description": "It a word game with league of legends item and carakters one of the first apps i made.",
+    "description": "This is a word game featuring League of Legends items and characters. It's one of the first apps I created, combining my love for gaming with programming.",
     "skills": ["CSS", "HTML", "JavaScript"],
     "demo": "https://word-game-lol.netlify.app/",
     "source": "https://word-game-lol.netlify.app/"
@@ -82,7 +82,7 @@
   {
     "title": "Image search app",
     "imageSrc": "/assets/projectsimg/Imgapp.png",
-    "description": "simple app to search for images also one of my first apps",
+    "description": "This is one of my first applications, designed to search for images. It's a straightforward project that showcases the basics of building a functional search interface.",
     "skills": ["CSS", "HTML", "JavaScript", "API"],
     "demo": "https://daves-img-search.netlify.app/",
     "source": "https://github.com/DivineDragonDave/img-s-kning"
