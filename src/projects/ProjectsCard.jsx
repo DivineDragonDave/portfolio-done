@@ -16,7 +16,7 @@ const ProjectCard = ({
     <Card
       sx={{
         mb: "10px",
-        height: "560px",
+        height: "585px",
         display: "flex",
         flexDirection: "column",
         borderRadius: "10px",
